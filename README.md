@@ -2,6 +2,7 @@
 # Linux Shell Scripts  
 
 **A repository for small shell scripts that make the life of Linux user easier.**   
+---
 Author: Rotari Corneliu  
 Year: 2022   
 
