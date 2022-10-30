@@ -3,8 +3,7 @@
 
 **A repository for small shell scripts that make the life of Linux user easier.**   
 Author: Rotari Corneliu  
-Year: 2022  
----
+Year: 2022   
 
 ___
 ## Update NPM
