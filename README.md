@@ -12,6 +12,6 @@ Updates the node version and installs the dependecies of frameworks CLI.
 
 To run the script :  
 ```
-. ./update_node.sh
+$ . ./update_node.sh
 ```
 
