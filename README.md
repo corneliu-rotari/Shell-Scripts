@@ -1,12 +1,12 @@
 
-# Linux Shell Scripts  
+# Shell Scripts  
 
-**A repository for small shell scripts that make the life of Linux user easier.**   
+**A repository for small shell scripts that make the life of developers easier.**   
 ---
-Author: Rotari Corneliu  
-Year: 2022   
+1. [ Update Node Package Manager ](update_npm)
 
-___
+---
+<a name="update_npm"></a>
 ## Update NPM
 Updates the node version and installs the dependecies of frameworks CLI. 
 
